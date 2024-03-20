@@ -9,4 +9,10 @@ A robot is tasked with delivering packages X and Y to locations A and B. The env
  square as the robot.
 Robot has to pickup a package from location X to deliver to location A and a package
  from location Y to deliver to B.
+
+
+
+
+
+ 
 ![image](https://github.com/LikhithaChuvya/delivery_robot/assets/147414033/edd293c0-1b40-43d4-9706-d48782a0849c)
